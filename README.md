@@ -1,1 +1,1 @@
-# CSS-Sidebar-Menu
+A sidebar navigation layout built using only HTML5 and CSS3. The toggle functionality is implemented using the checkbox technique combined with modern CSS properties like transitions and positioning. This project focuses on learning creative CSS methods to build interactive UI components without using JavaScript.
